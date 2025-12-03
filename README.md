@@ -1,4 +1,4 @@
-# Thirty Days. Thirty Problems. Thirty Business Solutions.
+# 30 Days. 30 Problems. 30 Business Solutions.
 
 ## Introduction
 30 Day Applied Business Strategy Challenge is a personal initiative where I solve one real world business problem every day for thirty days.  
@@ -29,13 +29,23 @@ The goal is not to write code for the sake of code. The goal is to think like so
         <tr><td align="center" style="height:56px; font-weight:bold;">Day 2</td></tr>
         <tr>
           <td align="center" style="height:200px;">
-            <img src="https://github.com/user-attachments/assets/75a3617c-9f79-4579-854d-01af9cc0e6cd" alt="Day 1" width="260" height="160">
+            <img src="https://github.com/user-attachments/assets/75a3617c-9f79-4579-854d-01af9cc0e6cd" alt="Day 2" width="260" height="160">
           </td>
         </tr>
         <tr><td align="center" style="height:64px;"><a href="https://github.com/pprachi15/Customer-Churn-Impact-Analysis.git">Project Link</a></td></tr>
       </table>
     </td>
-
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 3</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/7c251ca5-669b-433a-9a6b-3ea7e92b804a" alt="Day 3" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center" style="height:64px;"><a href="https://github.com/pprachi15/Customer_Segmentation_and_Risk_Intelligence.git">Project Link</a></td></tr>
+      </table>
+    </td>
 
 
 <!--   
