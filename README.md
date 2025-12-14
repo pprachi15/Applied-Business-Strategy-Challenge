@@ -171,8 +171,25 @@ The goal is not to write code for the sake of code. The goal is to think like so
     </td>
   </tr>
 
-</table>
+  <!-- ROW 5 -->
+  <tr>
+    <!-- Day 13 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 13</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/2bdbb7d8-dceb-4ede-8e16-bf420e1ba0fe" alt="Day 13" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/GTM-Segmentation-Analysis.git">Project Link</a></td></tr>
+      </table>
+    </td>
+  
+  </tr>
 
+
+</table>
 
 ---
 
