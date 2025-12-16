@@ -185,9 +185,31 @@ The goal is not to write code for the sake of code. The goal is to think like so
         <tr><td align="center"><a href="https://github.com/pprachi15/GTM-Segmentation-Analysis.git">Project Link</a></td></tr>
       </table>
     </td>
-  
+    <!-- Day 14 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 14</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/b2e14537-cd23-44ed-9c44-528e4ea73465" alt="Day 14" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://www.linkedin.com/posts/prachi-datawhisperer_analytics-productmanagement-fintech-activity-7406135935274278913-R6p0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_8olYBoGeFeTULzo81GnG02khpK6PjzTc">Post</a></td></tr>
+      </table>
+    </td> 
+    <!-- Day 15 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 15</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/c8855418-ab14-43fe-835c-fc4fb8253ccc" alt="Day 15" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Dispute-and-Chargeback-Analysis.git">Project Link</a></td></tr>
+      </table>
+    </td>
   </tr>
-
 
 </table>
 
