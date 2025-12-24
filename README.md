@@ -251,7 +251,7 @@ The goal is not to write code for the sake of code. The goal is to think like so
     </td>
   </tr>
 
-   <!-- ROW 6 -->
+   <!-- ROW 7 -->
   <tr>
     <!-- Day 19 -->
     <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
@@ -265,7 +265,60 @@ The goal is not to write code for the sake of code. The goal is to think like so
         <tr><td align="center"><a href="https://github.com/pprachi15/Recoverable-Revenue-Modeling-for-Failed-Transactions.git">Project Link</a></td></tr>
       </table>
     </td>
+     <!-- Day 20 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 20</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/749b53ec-746b-49aa-ba0e-5b8221dfe09a" alt="Day 20" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Card-Tokenization-Case-Study.git">Project Link</a></td></tr>
+      </table>
+    </td>
+    <!-- Day 21 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 21</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/1eb6d133-c285-40de-8f9c-135378da6d7f" alt="Day 21" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://www.linkedin.com/posts/prachi-datawhisperer_careerjourney-sundaymotivation-womenintech-activity-7408672653831757824-JsWt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_8olYBoGeFeTULzo81GnG02khpK6PjzTc">Post</a></td></tr>
+      </table>
+    </td>
+  </tr>
 
+   <!-- ROW 8 -->
+  <tr>
+    <!-- Day 22 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 22</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/98bc3b83-71a4-4aea-ba02-a09e8a2cd82c" alt="Day 22" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Product-Activation-Funnel-Breakdown.git">Project Link</a></td></tr>
+      </table>
+    </td>
+     <!-- Day 23 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 23</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/ad3b0761-7d43-494b-a5ff-05e050a4bc3c" alt="Day 23" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Sanctions-Screening-AML-Risk-Scoring.git">Project Link</a></td></tr>
+      </table>
+    </td>
+   
+  </tr>
 </table>
 
 ---
