@@ -317,8 +317,36 @@ The goal is not to write code for the sake of code. The goal is to think like so
         <tr><td align="center"><a href="https://github.com/pprachi15/Sanctions-Screening-AML-Risk-Scoring.git">Project Link</a></td></tr>
       </table>
     </td>
-   
+   <!-- Day 24 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 24</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/e94b0f59-75dd-442f-9295-5ebc862b9f4d" alt="Day 24" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://www.linkedin.com/posts/prachi-datawhisperer_fintech-riskmanagement-productmanagement-activity-7409839447627886592-Hzew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_8olYBoGeFeTULzo81GnG02khpK6PjzTc">Post</a></td></tr>
+      </table>
+    </td>
   </tr>
+
+  <!-- ROW 9 -->
+  <tr>
+    <!-- Day 25 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 25</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/cc1f7080-d809-4928-9a24-1f9c5d1900e4" alt="Day 25" width="260" height="160">
+          </td>
+        </tr>
+        <tr>
+      </table>
+    </td>
+    
+
 </table>
 
 ---
