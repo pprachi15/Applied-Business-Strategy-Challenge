@@ -345,7 +345,19 @@ The goal is not to write code for the sake of code. The goal is to think like so
         <tr>
       </table>
     </td>
-    
+     <!-- Day 26 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 26</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/833df6f4-5940-48c7-98a9-4a5d991c4ef4" alt="Day 26" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://github.com/pprachi15/Recruiting-Funnel-Efficiency-Analytics.git">Project Link</a></td></tr>
+      </table>
+    </td>
+  </tr>
 
 </table>
 
