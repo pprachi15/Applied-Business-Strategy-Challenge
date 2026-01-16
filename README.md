@@ -371,7 +371,7 @@ The goal is not to write code for the sake of code. The goal is to think like so
     </td>
   </tr>
 
-    <!-- ROW 10 -->
+  <!-- ROW 10 -->
   <tr>
     <!-- Day 28 -->
     <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
