@@ -371,6 +371,46 @@ The goal is not to write code for the sake of code. The goal is to think like so
     </td>
   </tr>
 
+    <!-- ROW 10 -->
+  <tr>
+    <!-- Day 28 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 28</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/3448b1d4-68c0-488c-a6c9-d6a9c979f60f" alt="Day 28" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://www.linkedin.com/posts/prachi-datawhisperer_productmanagement-peopleops-employeeexperience-activity-7411265729150517248-ZsKn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_8olYBoGeFeTULzo81GnG02khpK6PjzTc">Post Link</a></td></tr>
+      </table>
+    </td>
+     <!-- Day 29 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 29</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/507f1813-1256-4bd3-8b58-be98714064de" alt="Day 29" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://www.linkedin.com/posts/prachi-datawhisperer_productmanagement-systemsdesign-internaltools-activity-7411612026550009856-Se3j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_8olYBoGeFeTULzo81GnG02khpK6PjzTc">Post Link</a></td></tr>
+      </table>
+    </td>
+     <!-- Day 30 -->
+    <td style="width:33%; padding:0; border:1px solid #3a3a3a;">
+      <table style="width:100%; height:320px; table-layout:fixed;">
+        <tr><td align="center" style="height:56px; font-weight:bold;">Day 30</td></tr>
+        <tr>
+          <td align="center" style="height:200px;">
+            <img src="https://github.com/user-attachments/assets/8deb761e-8737-480b-9e4d-01f82390f943" alt="Day 30" width="260" height="160">
+          </td>
+        </tr>
+        <tr><td align="center"><a href="https://www.linkedin.com/posts/prachi-datawhisperer_%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%86-%F0%9D%9F%AF%F0%9D%9F%AC-%F0%9D%97%94%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%97%95%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B2-activity-7411998107506503681--gxV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_8olYBoGeFeTULzo81GnG02khpK6PjzTc">Post Link</a></td></tr>
+      </table>
+    </td>
+  </tr>
+
 </table>
 
 ---
